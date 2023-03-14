@@ -1,5 +1,9 @@
 # Taller-1
 ## Punto 3
+##  Diagrama de flujo 
+![Diagrama de flujo punto 3](https://user-images.githubusercontent.com/124607325/225164100-c29c5ffe-fcb1-4f42-b618-bc0ae9b55476.png)
+
+
 1. Se pide que ingrese un número entero.
 ![Ingresar un numero entero](https://user-images.githubusercontent.com/124607325/225150478-5549a790-0748-44ee-b7fb-10a0c7f51071.png)
 
