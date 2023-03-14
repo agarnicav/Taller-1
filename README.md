@@ -8,7 +8,7 @@
 ![Ingresar un numero entero](https://user-images.githubusercontent.com/124607325/225150478-5549a790-0748-44ee-b7fb-10a0c7f51071.png)
 
 El número ingresado se almacena como un entero en la variable n
-![Sexto punto codigo](https://user-images.githubusercontent.com/124607325/225151572-10ea7842-8bc9-4504-9db7-1bda82cda284.png)
+![Tercer punto Codigo](https://user-images.githubusercontent.com/124607325/225164326-03c2d08d-aece-4dd3-8168-f97dd510c11e.png)
 
 
 2. Si el número n es impar,  se determinará usando n % 2 != 0, que devuelve verdadero si el resto de la división de n entre 2  es cero. e imprime que el número ingresado no es par
