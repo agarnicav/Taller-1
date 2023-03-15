@@ -1,10 +1,10 @@
 # Taller-1 Grupo Attack On Coding
 ![attack on coding](https://user-images.githubusercontent.com/124607325/225370329-96e3bfc0-d0a4-4adf-bda7-91cd5fc0260f.jpeg)
 
-# Primer Punto 
+## Primer Punto 
 ![2d3fc4c9-997c-4093-85ba-a74414d933a5](https://user-images.githubusercontent.com/124607325/225183214-157806a5-6571-4e35-8068-6447fd616fc9.jpg)
 ![7b34ee39-52cc-44c4-aa08-d4a3cdac2d26](https://user-images.githubusercontent.com/124607325/225183229-3c2a34a8-941c-4c47-9976-4bca33f38fe1.jpg)
-hy
+
 ## Segundo punto 
 2. Realice un programa que lea tres números reales y determine cuál es el mayor.
 En primer lugar se le pedirá al usuario asignar valor a cada una de las variables (a, b y c) que serán almacenadas como flotantes. 
@@ -89,7 +89,8 @@ El número ingresado se almacena como un entero en la variable n
       ![image](https://user-images.githubusercontent.com/124721286/225160698-8b52941c-d65d-4c49-87b2-b5a511e53abf.png)
       
       # Quinto punto #
-5. Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
+      
+Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.
 Igualmente el programa inicia pidiéndole al usuario asignar valor a las variables (numero1, numero2, y numero3) que fueron declaradas como flotantes. Se realiza la suma de los dos primeros números y se establece un mensaje para cada una de las posibles situaciones al comparar el resultado con el tercer valor. 
 [![Ejemplo-con-16-4-y-20.png](https://i.postimg.cc/L8mSsbxb/Ejemplo-con-16-4-y-20.png)](https://postimg.cc/HVvRZBDw)
 
