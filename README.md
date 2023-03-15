@@ -120,6 +120,8 @@ else:
 
 
 2. Se verifica si la letra ingresada es una vocal con  una serie de declaraciones "if" y "elif" para comprobar si la letra ingresada es una vocal o una consonante.
+
+
 ![Lista de variables letras](https://user-images.githubusercontent.com/124607325/225466808-1e796b2d-994f-4325-968c-ac0446be0cf9.png)
 ![Lista de variables letras 2](https://user-images.githubusercontent.com/124607325/225466812-41f607d5-5b62-40cd-b858-91314384d5fd.png)
 
@@ -129,6 +131,7 @@ else:
 
 
 4. Si la letra es una consonante, se imprime un mensaje indicando que la entrada es una consonante.
+
 ![CONSONANTE](https://user-images.githubusercontent.com/124607325/225467043-d49f3db2-4863-4297-a70b-845ff79875cb.png)
 
 
