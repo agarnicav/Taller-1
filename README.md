@@ -1,9 +1,10 @@
 # Taller-1 Grupo Attack On Coding
-![Copia de Attack on Coding](https://user-images.githubusercontent.com/124607325/225343773-d325a55f-fa3d-4418-927e-3f7e3d789e83.png)
+![attack on coding](https://user-images.githubusercontent.com/124607325/225370329-96e3bfc0-d0a4-4adf-bda7-91cd5fc0260f.jpeg)
+
 # Primer Punto 
 ![2d3fc4c9-997c-4093-85ba-a74414d933a5](https://user-images.githubusercontent.com/124607325/225183214-157806a5-6571-4e35-8068-6447fd616fc9.jpg)
 ![7b34ee39-52cc-44c4-aa08-d4a3cdac2d26](https://user-images.githubusercontent.com/124607325/225183229-3c2a34a8-941c-4c47-9976-4bca33f38fe1.jpg)
-
+hy
 ## Segundo punto 
 2. Realice un programa que lea tres números reales y determine cuál es el mayor.
 En primer lugar se le pedirá al usuario asignar valor a cada una de las variables (a, b y c) que serán almacenadas como flotantes. 
