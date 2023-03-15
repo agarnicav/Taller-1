@@ -115,25 +115,26 @@ else:
 ```
 
 ## Sexto Punto
-1. Se pide ingresar una letra y se almacena en la variable letra.
-![INGRESE UNA LETRA](https://user-images.githubusercontent.com/124607325/225155395-d44f9289-5bc7-4633-9dda-1e5b4019d0e3.png)
-
-![Sexto punto](https://user-images.githubusercontent.com/124607325/225183068-f23bb478-5ef0-4ea5-9898-07d9e56f96ad.png)
+1. Se pide ingresar una letra y se almacena en la variable "letra".
+![INGRESE UNA LETRA](https://user-images.githubusercontent.com/124607325/225466419-34b83e1f-afb0-48fc-97aa-d86707fe5097.png)
 
 
-2. Se verifica si la letra ingresada es una vocal, comparándola con una tupla de las vocales en minúsculas utilizando el operador in.
-3. Si la letra es una vocal, se imprime un mensaje indicando que la entrada es una vocal.
-![VOCAL](https://user-images.githubusercontent.com/124607325/225183094-aedaa47f-eff8-45b1-b6eb-f00aeaec0bd4.png)
+2. Se verifica si la letra ingresada es una vocal con  una serie de declaraciones "if" y "elif" para comprobar si la letra ingresada es una vocal o una consonante.
+![Lista de variables letras](https://user-images.githubusercontent.com/124607325/225466808-1e796b2d-994f-4325-968c-ac0446be0cf9.png)
+![Lista de variables letras 2](https://user-images.githubusercontent.com/124607325/225466812-41f607d5-5b62-40cd-b858-91314384d5fd.png)
+
+3. Si la letra es una vocal, se imprime un mensaje indicando que la letra es una vocal.
+
+![VOCAL](https://user-images.githubusercontent.com/124607325/225466979-56e0f6aa-7f62-4fce-83ac-38bb7eaa0259.png)
 
 
-4. Si la letra no es una vocal, se verifica si es una consonante comparándola con una tupla de las consonantes en minúsculas utilizando el operador in.
-5. Si la letra es una consonante, se imprime un mensaje indicando que la entrada es una consonante.
-![CONSONANTE](https://user-images.githubusercontent.com/124607325/225183103-66da80c5-6a2e-48aa-94c7-d37b856b8abc.png)
+4. Si la letra es una consonante, se imprime un mensaje indicando que la entrada es una consonante.
+![CONSONANTE](https://user-images.githubusercontent.com/124607325/225467043-d49f3db2-4863-4297-a70b-845ff79875cb.png)
+
 
 
 5. Si la letra no es una consonante ni una vocal , se imprime un mensaje indicando que la entrada no es una letra. y el programa finaliza.
-![No es una letra](https://user-images.githubusercontent.com/124607325/225183124-3a3a0ea6-1e55-4567-b09c-8573a823431e.png)
-
+![No es una letra](https://user-images.githubusercontent.com/124607325/225467109-b199aa6e-3c77-4d6d-954a-274e361ab547.png)
 
 
 
