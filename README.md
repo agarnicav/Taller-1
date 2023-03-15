@@ -62,7 +62,7 @@ El número ingresado se almacena como un entero en la variable n
   7. Código completo.
   
       ![image](https://user-images.githubusercontent.com/124721286/225160698-8b52941c-d65d-4c49-87b2-b5a511e53abf.png)
-## Punto 6
+## Sexto Punto
 1. Se pide ingresar una letra y se almacena en la variable letra.
 ![INGRESE UNA LETRA](https://user-images.githubusercontent.com/124607325/225155395-d44f9289-5bc7-4633-9dda-1e5b4019d0e3.png)
 
