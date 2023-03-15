@@ -1,4 +1,5 @@
-# Taller-1
+# Taller-1 Grupo Attack On Coding
+![Copia de Attack on Coding](https://user-images.githubusercontent.com/124607325/225343773-d325a55f-fa3d-4418-927e-3f7e3d789e83.png)
 
 # Primer Punto 
 ![2d3fc4c9-997c-4093-85ba-a74414d933a5](https://user-images.githubusercontent.com/124607325/225183214-157806a5-6571-4e35-8068-6447fd616fc9.jpg)
@@ -38,7 +39,6 @@ else:
 
 El número ingresado se almacena como un entero en la variable n
 ![Tercer punto Codigo](https://user-images.githubusercontent.com/124607325/225164326-03c2d08d-aece-4dd3-8168-f97dd510c11e.png)
-
 
 2. Si el número n es impar,  se determinará usando n % 2 != 0, que devuelve verdadero si el resto de la división de n entre 2  es cero. e imprime que el número ingresado no es par
 ![RESULTADO NUMERO NO PAR](https://user-images.githubusercontent.com/124607325/225151673-45464d1a-d59e-40a8-8303-e387ea1061a5.png)
